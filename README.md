@@ -1,9 +1,13 @@
 # SimpleCalculatorApp
 
-This is simple calculator but animated splash screen
-to understand how to develop animated splash screen this app can help you.
+# This is simple calculator but animated splash screen
+<br>
+ To understand how to develop animated splash screen this app can help you.
+ 
+
+
+https://user-images.githubusercontent.com/67712314/215838819-c96d7128-8b86-4c90-8b8e-6a002cb871a3.mp4
 
 
 
-https://user-images.githubusercontent.com/67712314/215829590-a89677fd-ca4e-4444-b5d1-df25810cb604.mp4
 
